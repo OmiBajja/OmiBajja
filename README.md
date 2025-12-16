@@ -1,10 +1,15 @@
 ## Hi there 👋
+### 💻 Software Developer & 42 Paris Student
 
+Hi, I'm Omar! I'm currently diving deep into the world of software development at 42 Paris.
+
+My core interests lie in **low-level programming (C/C++)** and **cybersecurity**. I enjoy tackling complex challenges and understanding how systems work from the ground up.
+
+You'll find a blend of school projects and personal coding explorations on this profile.
 <!--
 **OmiBajja/OmiBajja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
